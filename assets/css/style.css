@@ -581,7 +581,7 @@ footer li {
 /* Mobile Phone */
 @media (max-width: 576px) {
   html {
-    font-size: 60%;
+    font-size: 50%;
   }
 
   .hero .img-couple {
@@ -615,3 +615,4 @@ footer li {
     width: 100px;
   }
 }
+
