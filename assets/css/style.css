@@ -593,6 +593,11 @@ footer li {
     height: 150px;
     background-size: 100%;
   }
+
+  .home h4 {
+    font-size: 280%;
+  }
+  
   .simply-countdown > .simply-section {
     padding: 30px;
     margin: 3px;
@@ -619,3 +624,4 @@ footer li {
     width: 100px;
   }
 }
+
