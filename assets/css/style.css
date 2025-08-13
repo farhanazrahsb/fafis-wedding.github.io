@@ -617,15 +617,6 @@ footer li {
     margin: 3px;
   }
 
-  .mynavbar .offcanvas {
-    margin-right: 0;
-  }
-
-  .mynavbar .nav-link {
-    font-size: 1.5rem;
-    text-align: center;
-  }
-
   .timeline li .timeline-image {
     width: 80px;
     height: 80px;
@@ -648,3 +639,4 @@ footer li {
     width: 100px;
   }
 }
+
