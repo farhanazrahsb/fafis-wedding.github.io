@@ -530,6 +530,10 @@ footer li {
     display: none;
   }
 
+  .sticky-top {
+    overflow: hidden;
+  }
+
   .timeline::before {
     left: 60px;
   }
@@ -613,6 +617,10 @@ footer li {
     margin: 3px;
   }
 
+  .sticky-top {
+    overflow: hidden;
+  }
+
   .timeline li .timeline-image {
     width: 80px;
     height: 80px;
@@ -635,5 +643,6 @@ footer li {
     width: 100px;
   }
 }
+
 
 
