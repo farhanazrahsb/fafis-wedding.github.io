@@ -577,10 +577,6 @@ footer li {
     margin: 5px;
   }
 
-  .mynavbar .offcanvas {
-    margin-right: 0;
-  }
-
   .mynavbar .nav-link {
     font-size: 2rem;
     text-align: center;
@@ -639,4 +635,5 @@ footer li {
     width: 100px;
   }
 }
+
 
